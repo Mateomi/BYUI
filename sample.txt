@@ -1,2 +1,3 @@
 Short message
 Another line
+New line!
